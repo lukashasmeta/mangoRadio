@@ -12,10 +12,9 @@
 </div>
 
 #### Supported Frameworks
-- `ESX`
-- `QBCore`
-- `QBox`
-- `ND-Core`
 - `Standalone`
+
+#### Dependencies
+- [`pma-voice`](https://github.com/AvarianKnight/pma-voice)
 
 ![](https://github.com/user-attachments/assets/255ac9f3-4176-4679-b524-f215d2ed0ee3)
