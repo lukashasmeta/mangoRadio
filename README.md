@@ -10,6 +10,7 @@
 ![](https://img.shields.io/github/license/lukashasmeta/mangoRadio?logo=github)
 
 </div>
+
 #### Supported Frameworks
 - `ESX`
 - `QBCore`
